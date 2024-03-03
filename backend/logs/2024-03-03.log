@@ -1,0 +1,300 @@
+
+Started POST /usuarios for :: ::1 at Sat Mar 02 2024 21:02:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkeetangcl@gmail.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 144 ms Request ID: [a7e7ecd1-8b20-4677-bab0-2addd200a1bc]
+
+Started POST /usuarios for :: ::1 at Sat Mar 02 2024 21:02:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkeetangcl@gmail.com","password":"123456","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 116 ms Request ID: [427c01af-2e5a-45f4-afea-d826b60a6e9f]
+
+Started POST /usuarios for :: ::1 at Sat Mar 02 2024 21:04:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkeetangcl@gmail.com","password":"123456","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 252 ms Request ID: [0529501d-5bf9-4dfb-9c21-d2a129d1a831]
+
+Started POST /usuarios for :: ::1 at Sat Mar 02 2024 21:05:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkeetangcl@gmail.com","password":"25786224sam","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 114 ms Request ID: [20644c10-bdc5-4778-b63e-aa6c7b8b5d89]
+
+Started POST /usuarios for :: ::1 at Sat Mar 02 2024 21:05:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkeetangcl@gmail.com","password":"25786224sam","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 252 ms Request ID: [9cba290d-0f39-4a4d-909e-4983932adc57]
+
+Started POST /usuarios for :: ::1 at Sat Mar 02 2024 21:06:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkeetangcl@gmail.com","password":"25786224sam","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 122 ms Request ID: [e3f771fb-f962-4aca-9110-efe2ce9958b7]
+
+Started POST /usuarios for :: ::1 at Sat Mar 02 2024 21:09:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkeetangcl@gmail.com","password":"25786224sam","rol":"Frontend Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 138 ms Request ID: [d507d843-f44b-40b0-9b63-e2dd8951f76c]
+
+Started GET /registrarse for :: ::ffff:127.0.0.1 at Sat Mar 02 2024 21:10:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"admin@vidasana.com","password":"123456"}
+Completed: 404 message:  Time response: 4 ms Request ID: [e1ea4f4c-dda1-47c8-b27b-800039204921]
+
+Started POST /registrarse for :: ::ffff:127.0.0.1 at Sat Mar 02 2024 21:10:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"admin@vidasana.com","password":"123456"}
+Completed: 404 message:  Time response: 2 ms Request ID: [6ebd6312-43a7-4bcf-8c02-281bc4d3a649]
+
+Started POST /usuarios for :: ::1 at Sat Mar 02 2024 21:11:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkeetangcl@gmail.com","password":"hola","rol":"Frontend Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 128 ms Request ID: [1d5b9a3a-d089-4d4c-bb1c-fa2628bae9e2]
+
+Started POST /usuarios for :: ::1 at Sat Mar 02 2024 21:12:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkeetangcl@gmail.com","password":"holahola","rol":"Frontend Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 129 ms Request ID: [d50d8664-a376-40b4-ba61-485172a8acbe]
+
+Started POST /usuarios for :: ::1 at Sat Mar 02 2024 21:14:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkeetangcl@gmail.com","password":"12345","rol":"Frontend Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 27 ms Request ID: [06df55fc-63a9-4344-a80e-777ec7687cb1]
+
+Started POST /usuarios for :: ::1 at Sat Mar 02 2024 21:16:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkeetangcl@gmail.com","password":"12345","rol":"Frontend Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 10 ms Request ID: [4cc1dda2-3c4b-425f-9dd7-7d9f544ab947]
+
+Started POST /usuarios for :: ::1 at Sat Mar 02 2024 21:16:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkeetangcl@gmail.com","password":"12345","rol":"Frontend Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 30 ms Request ID: [0bba8587-7b65-42a1-b2cd-2b33a3ad48f8]
+
+Started POST /usuarios for :: ::1 at Sat Mar 02 2024 21:17:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkeetangcl@gmail.com","password":"12345","rol":"Frontend Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 9 ms Request ID: [b245ec5b-eff9-472e-80ad-4d18a9a41f2b]
+
+Started POST /usuarios for :: ::1 at Sat Mar 02 2024 21:18:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkeetangcl@gmail.com","password":"12345","rol":"Frontend Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 10 ms Request ID: [9fe9c142-586b-44bb-949a-6203f14658f2]
+
+Started POST /usuarios for :: ::1 at Sat Mar 02 2024 21:23:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkeetangcl@gmail.com","password":"12345","rol":"Frontend Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 8 ms Request ID: [57e550ed-5691-4e5d-b569-b8ade0f5a60e]
+
+Started POST /usuarios for :: ::1 at Sat Mar 02 2024 23:35:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 31 ms Request ID: [c23937ce-a3c7-4ec6-aaa6-55dbcfd6b4c2]
+
+Started POST /usuarios for :: ::1 at Sat Mar 02 2024 23:35:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"1234567","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 4 ms Request ID: [1cbced7e-c377-402b-9512-6a349c39baaa]
+
+Started POST /usuarios for :: ::1 at Sat Mar 02 2024 23:46:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"1234567","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Started POST /usuarios for :: ::1 at Sat Mar 02 2024 23:47:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"hola@gmail.com","password":"1234567","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Started POST /usuarios for :: ::1 at Sat Mar 02 2024 23:50:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"hola@gmail.com","password":"1234567","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 8 ms Request ID: [0bcea106-66ce-4b11-9ef1-1c103c9de751]
+
+Started POST /usuarios for :: ::1 at Sat Mar 02 2024 23:54:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"hola@gmail.com","password":"1234567","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 7 ms Request ID: [2b9b2cd5-c81b-44cf-b214-54612af3a496]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:01:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"hola@gmail.com","password":"1234567","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 8 ms Request ID: [b62ddced-d79e-4ab1-be38-c69df844f56d]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:01:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 3 ms Request ID: [045e1937-f3bd-4f3b-8354-f57b6da4d09e]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:02:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 2 ms Request ID: [cfbc41ad-d61b-4964-a847-1c9f8a74d48c]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:05:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 9 ms Request ID: [a41ec1b8-b543-4ead-a4bc-e397dc3c5ef7]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 00:05:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"admin@vidasana.com","password":"123456"}
+Completed: 500 message:  Time response: 69 ms Request ID: [d6b45207-dd7d-49bb-8761-b27501a3c7e4]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:06:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"\"hola\"","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 3 ms Request ID: [2494cbf8-8b57-4411-8c80-9c87342ad442]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:06:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"holaquetal","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 3 ms Request ID: [6e2f74ff-229e-404a-840b-12632789a50e]
+
+Started POST /loginRoutes for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 00:07:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"admin@vidasana.com","password":"123456"}
+Completed: 404 message:  Time response: 5 ms Request ID: [1bc490ad-1569-46b6-80e3-64a279de49e9]
+
+Started GET /loginRoutes for :: ::ffff:127.0.0.1 at Sun Mar 03 2024 00:07:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"admin@vidasana.com","password":"123456"}
+Completed: 404 message:  Time response: 2 ms Request ID: [60488eb1-280e-4a01-a0bb-68734881f722]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:07:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"holaquetal","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 176 ms Request ID: [fa25b201-fcdc-4dae-94b7-0d3420ce7485]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:08:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"hola123","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 138 ms Request ID: [aadbf78c-e5fb-4e4e-90c2-07c6c72efb9a]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:08:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"hola","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 144 ms Request ID: [d27ff957-d49f-4fd2-9175-12623b56ba9a]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:08:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"12345667","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 134 ms Request ID: [395d0ccf-fae7-4eef-bc01-5fac182eee47]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:11:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 171 ms Request ID: [b03d6074-fb74-402d-9ea1-1e438c88336d]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:18:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 178 ms Request ID: [5d6a34af-c1ab-41a0-9eec-ce5589d89623]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:18:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 143 ms Request ID: [ef11ec86-dc44-447f-8ae8-3c7c7b63a3c7]
+
+Started POST /login for :: ::1 at Sun Mar 03 2024 00:18:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 500 message:  Time response: 63 ms Request ID: [f6655bc4-8238-4802-bba1-07b5f3e808c7]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:27:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 327 ms Request ID: [3a2b1bcb-7be3-497c-84e6-f63536c9e5b9]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:27:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"holahola","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 140 ms Request ID: [82377d3a-8659-42a3-b7a0-6f49608f2fbc]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:35:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 188 ms Request ID: [e41689ed-42cc-4d38-9a55-9f69abcf1883]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:38:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 142 ms Request ID: [f2c901c1-fbeb-4b00-81a9-7580362cf1ba]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:38:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 260 ms Request ID: [8aebc1fc-12ac-4bdd-adf2-2f399bd70f16]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:38:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 267 ms Request ID: [f4888d6a-4289-4875-909f-63f370c06624]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:40:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkeetangcl@gmail.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 142 ms Request ID: [c38978ff-aba2-438b-a571-25a2e2558fab]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:40:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkeetangcl@gmail.com","password":"holahola","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 146 ms Request ID: [07b6f7c0-2a92-4ed7-8ec3-2dc3ff52c0bd]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:42:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkeetangcl@gmail.com","password":"holahola","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 144 ms Request ID: [d8e507da-8d4e-4ac4-a788-60583e3cd8fb]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:45:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkeetangcl@gmail.com","password":"holahola","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 141 ms Request ID: [cc53ca2e-e7d3-4b57-91f5-0660edf1eb25]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:46:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkeetangcl@gmail.com","password":"holahola","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 138 ms Request ID: [554af17c-614f-4552-b861-bcbe2f7b1955]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:46:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkeetangcl@gmail.com","password":"holahola","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 400 message:  Time response: 139 ms Request ID: [bb5acd83-933c-4951-b9c4-5053ab5a5680]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:51:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkeetangcl@gmail.com","password":"holahola","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 201 message:  Time response: 217 ms Request ID: [b5cc22b2-a556-4154-89fe-d9d818c8473b]
+
+Started POST /login for :: ::1 at Sun Mar 03 2024 00:51:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 500 message:  Time response: 34 ms Request ID: [13248270-5885-4deb-9a47-1e649020e509]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:51:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkee@hola.com","password":"123456","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 201 message:  Time response: 160 ms Request ID: [47ba3fb0-662d-49b5-ab9c-764cb791547b]
+
+Started POST /login for :: ::1 at Sun Mar 03 2024 00:52:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkee@hola.com","password":"123456"}
+Completed: 200 message:  Time response: 165 ms Request ID: [85b6da35-9cde-427d-b8fd-4f1d57d91a92]
+
+Started GET /usuarios for :: ::1 at Sun Mar 03 2024 00:52:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /usuarios for :: ::1 at Sun Mar 03 2024 00:52:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started POST /login for :: ::1 at Sun Mar 03 2024 00:53:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkee@hola.com","password":"123456"}
+Completed: 200 message:  Time response: 194 ms Request ID: [822cd37d-1500-42a9-89b4-7b1f123c2dbb]
+
+Started GET /usuarios for :: ::1 at Sun Mar 03 2024 00:53:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:54:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"hola@profe.com","password":"123456","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 201 message:  Time response: 187 ms Request ID: [2b05ee25-d063-43e4-9d68-c777e17250cc]
+
+Started POST /login for :: ::1 at Sun Mar 03 2024 00:54:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"hola@profe.com","password":"123456"}
+Completed: 200 message:  Time response: 149 ms Request ID: [66251441-385a-4494-b099-0ff3d40b15fd]
+
+Started GET /usuarios for :: ::1 at Sun Mar 03 2024 00:55:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:56:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"asd@gmail.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 201 message:  Time response: 186 ms Request ID: [0283efe2-d2d9-4d9f-afc7-be018bc6f1f4]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 00:56:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"holaweon@gmail.com","password":"123456","rol":"Backend Developer","lenguage":"JavaScript"}
+Completed: 201 message:  Time response: 146 ms Request ID: [8bf1db4f-2934-4915-a153-8aa063d5c401]
+
+Started POST /login for :: ::1 at Sun Mar 03 2024 00:57:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkee@hola.com","password":"123456"}
+Completed: 200 message:  Time response: 149 ms Request ID: [7d2c1f9a-4163-412b-ae13-c11799f2faf6]
+
+Started GET /usuarios for :: ::1 at Sun Mar 03 2024 00:57:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started POST /login for :: ::1 at Sun Mar 03 2024 01:00:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkee@hola.com","password":"123456"}
+Completed: 200 message:  Time response: 191 ms Request ID: [e582fc8a-095d-4c87-9ed4-14ddc16241a5]
+
+Started GET /usuarios for :: ::1 at Sun Mar 03 2024 01:00:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started POST /login for :: ::1 at Sun Mar 03 2024 01:01:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkee@hola.com","password":"123456"}
+Completed: 200 message:  Time response: 192 ms Request ID: [6ccca817-959c-45db-ac13-0867083f970d]
+
+Started GET /usuarios for :: ::1 at Sun Mar 03 2024 01:01:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 01:02:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiosslatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"Python"}
+Completed: 201 message:  Time response: 185 ms Request ID: [e2b9f30d-c80a-4824-8fe8-c2a1897833fa]
+
+Started POST /login for :: ::1 at Sun Mar 03 2024 01:02:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 500 message:  Time response: 60 ms Request ID: [9800c622-2521-4343-b3e9-93a209f8ec6c]
+
+Started POST /login for :: ::1 at Sun Mar 03 2024 01:02:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkee@hola.com","password":"123456"}
+Completed: 200 message:  Time response: 102 ms Request ID: [32c253ff-3ea9-46c0-a37d-1f1afef8a468]
+
+Started GET /usuarios for :: ::1 at Sun Mar 03 2024 01:02:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 01:03:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"asdasd@gmail.com","password":"123456","rol":"Backend Developer","lenguage":"JavaScript"}
+Completed: 201 message:  Time response: 186 ms Request ID: [24ae8fb7-2b7d-4697-a0b9-f749d7356ab9]
+
+Started POST /login for :: ::1 at Sun Mar 03 2024 01:03:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"samkee@hola.com","password":"123456"}
+Completed: 200 message:  Time response: 102 ms Request ID: [03d4cdd4-203e-4e1b-ad67-5b9bef0c6a6b]
+
+Started GET /usuarios for :: ::1 at Sun Mar 03 2024 01:03:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [daed592e-1cf7-4f89-81af-298e2378bd65]
+
+Started GET /usuarios for :: ::1 at Sun Mar 03 2024 01:03:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [9bac35c7-7fc4-4c15-be57-879f139b634b]
+
+Started POST /usuarios for :: ::1 at Sun Mar 03 2024 01:03:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"asdasdasdasda@hasdf.com","password":"123456","rol":"Frontend Developer","lenguage":"Python"}
+Completed: 201 message:  Time response: 174 ms Request ID: [01b6abfe-0aac-4746-8666-d54de1be2595]
